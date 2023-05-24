@@ -1,0 +1,15 @@
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.csproj.AssemblyReference.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.AssemblyInfoInputs.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.AssemblyInfo.cs
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.csproj.CoreCompileInputs.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\bin\Debug\net7.0\Reference vs Value types.exe
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\bin\Debug\net7.0\Reference vs Value types.deps.json
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\bin\Debug\net7.0\Reference vs Value types.runtimeconfig.json
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\bin\Debug\net7.0\Reference vs Value types.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\bin\Debug\net7.0\Reference vs Value types.pdb
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\refint\Reference vs Value types.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.pdb
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\Reference vs Value types.genruntimeconfig.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Reference vs Value types\Reference vs Value types\obj\Debug\net7.0\ref\Reference vs Value types.dll
