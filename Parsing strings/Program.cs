@@ -4,10 +4,11 @@
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Please enter a number:");
-            string input = GetInput();
-
-            int number = ParseInput(input);
+            int number;
+            do
+            {
+                Console.WriteLine("Please enter a number:");
+            } while (!ParseInput(GetInput(), out number));
 
             Console.WriteLine("The square of the number:");
             Console.WriteLine(SquareInput(number));
@@ -17,12 +18,12 @@
 
         private static string GetInput()
         {
-            return Console.ReadLine() ?? "";
+            return Console.ReadLine();
         }
 
-        private static int ParseInput(string input)
+        private static bool ParseInput(string input, out int number)
         {
-            return Int32.Parse(input);
+            return Int32.TryParse(input, out number);
         }
 
         private static int SquareInput(int input)
