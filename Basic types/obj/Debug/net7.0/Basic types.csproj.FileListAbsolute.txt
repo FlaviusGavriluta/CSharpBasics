@@ -1,0 +1,15 @@
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\bin\Debug\net7.0\Basic types.exe
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\bin\Debug\net7.0\Basic types.deps.json
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\bin\Debug\net7.0\Basic types.runtimeconfig.json
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\bin\Debug\net7.0\Basic types.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\bin\Debug\net7.0\Basic types.pdb
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.csproj.AssemblyReference.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.AssemblyInfoInputs.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.AssemblyInfo.cs
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.csproj.CoreCompileInputs.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\refint\Basic types.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.pdb
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\Basic types.genruntimeconfig.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Basic types\obj\Debug\net7.0\ref\Basic types.dll
