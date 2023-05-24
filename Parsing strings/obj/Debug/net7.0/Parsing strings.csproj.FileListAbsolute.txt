@@ -1,0 +1,15 @@
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\bin\Debug\net7.0\Parsing strings.exe
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\bin\Debug\net7.0\Parsing strings.deps.json
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\bin\Debug\net7.0\Parsing strings.runtimeconfig.json
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\bin\Debug\net7.0\Parsing strings.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\bin\Debug\net7.0\Parsing strings.pdb
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.csproj.AssemblyReference.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.AssemblyInfoInputs.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.AssemblyInfo.cs
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.csproj.CoreCompileInputs.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\refint\Parsing strings.dll
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.pdb
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\Parsing strings.genruntimeconfig.cache
+D:\0. Programming\CodeCool\3. OOP with C#\1st SI\C# basics-FlaviusGavriluta\Parsing strings\obj\Debug\net7.0\ref\Parsing strings.dll
